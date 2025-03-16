@@ -1,5 +1,7 @@
 import java.util.stream.Stream;
 
+import ui.custom.screen.MainScreen;
+
 import static java.util.stream.Collectors.toMap;
 
 public class UIMain {
